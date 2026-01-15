@@ -173,7 +173,7 @@ But object recognition is not as straightforward as a categorization
 task and using categories can result in a number of issues. One example
 is dealing with the different affordances that an object might have as a
 function of context. In language, a word or a sentence can have a
-standing meaning and an occasion meanings. An standing meaning
+standing meaning and an occasion meaning. A standing meaning
 corresponds to the conventional meaning of an expression. The occasion
 meaning is the particular meaning that the same expression might have
 when used in a specific context. Therefore, when an expression is being
